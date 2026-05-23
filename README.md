@@ -1,4 +1,7 @@
 # Smart Boiler Monitor
+## Project Screenshot
+
+![Dashboard](dashboard.png)
 
 A multithreaded industrial boiler monitoring simulator built in C using POSIX threads on Linux.
 
