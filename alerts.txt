@@ -1,0 +1,13 @@
+ALERT -> Temperature: 194°C | Pressure: 36 PSI
+ [Fri May 22 17:23:07 2026
+] ALERT -> Temperature: 214°C | Pressure: 37 PSI
+ [Fri May 22 17:24:29 2026
+] ALERT -> Temperature: 202°C | Pressure: 36 PSI
+ [Fri May 22 17:30:17 2026
+] ALERT -> Temperature: 182°C | Pressure: 36 PSI
+ [Fri May 22 17:39:58 2026] ALERT -> Temperature: 182°C | Pressure: 37 PSI
+ [Fri May 22 17:41:04 2026] ALERT -> Temperature: 184°C | Pressure: 36 PSI
+ [Fri May 22 17:42:47 2026] ALERT -> Temperature: 193°C | Pressure: 36 PSI
+ [Fri May 22 18:19:35 2026] ALERT -> Temperature: 217°C | Pressure: 37 PSI
+ [Fri May 22 18:22:02 2026] ALERT -> Temperature: 204°C | Pressure: 36 PSI
+ [Sat May 23 08:36:16 2026] ALERT -> Temperature: 180°C | Pressure: 36 PSI
